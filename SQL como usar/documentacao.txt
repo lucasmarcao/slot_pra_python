@@ -1,0 +1,24 @@
+AQUI vou criar um aplicativo
+CRUD COM GUI QUE USA O BD (postgressSQL)
+
+PASSO 1:    ORganizar as pastas do meu projeto. (libs são .py tbm)
+
+PASSO 2:    pip install psycopg2   
+(USAR ESSE COMANDO PRA USAR O postgressSQL)
+
+PASSO 3:    
+# nome do server: MarcaoServer
+conta POSTGRESQL: postgres
+senha POSTGRESQL: Enquebravel11    
+
+
+PASSO 1:    Enquebravel11 não esqueça
+senha do MySQL = LucasMarcao1
+
+PASSO 1:    
+
+PASSO 1:    python -m auto_py_to_exe
+
+PASSO 1:    
+
+PASSO 1:    
